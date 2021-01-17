@@ -111,7 +111,7 @@ Scan_key(); function scan whether a key has been pressed or not all the time. if
     4.	Limit the PIN Code Length
 But all these above disadvantages can be overcome by advancement in this technology.
 ### Future Scope:
-    1.	Door can be open sung separate password for different users
+    1.	Door can be open using separate password for different users
     2.	Allow Password Recovery option
     3.	Store log records of entered user
     4.	Instead of sounding Buzzer a notification will be sent to owner
