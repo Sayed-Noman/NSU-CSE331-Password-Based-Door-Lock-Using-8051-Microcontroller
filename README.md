@@ -106,7 +106,7 @@ Scan_key(); function scan whether a key has been pressed or not all the time. if
 2.	NO MORE KEYS: You won’t have to carry around a large set of keys and they will be less likely to be lost or stolen. Also, if you are a landlord, you don’t have to give residents keys or replace them if they lose them.
 3.	Control: In a company building, you can control and restrict who goes into what part of the building. Also residents and landlords of apartments and flat, can control who can enter their room with one PIN code and it reduces the risk of anything getting stolen. It is incredibly easy to change the PIN code whenever you like. The combination door lock from The Workplace Depot have over 8,000 possible code combinations with a simple code change facility.
  4.	Aesthetically Pleasing: Door locks can come in a range of stylish colors that look smart and professional. At The Workplace Depot, we sell mechanical digital door       locks in a choice of 3 colors, brass, chrome and satin chrome.
- 5.	Perfect for the elderly or disabled: The extra investment into a door lock could bring massive advantages to those who are unable to get to the door quickly and/or who struggle with keys
+ 5.	Perfect for the elderly or disabled: The extra investment into a door lock could bring massive advantages to those who are unable to get to the door quickly and/or who struggle with keys.
 ### Disadvantage:
     1.	Forgetful
     2.	Keep the PIN code safe and the lock clean
@@ -118,7 +118,6 @@ But all these above disadvantages can be overcome by advancement in this technol
     2.	Allow Password Recovery option
     3.	Store log records of entered user
     4.	Instead of sounding Buzzer a notification will be sent to owner
-
 
 
 ### References:
