@@ -1,4 +1,4 @@
-## NSU-CSE331-Password-Based-Door-Lock-Using-8051-Microcontroller
+## NSU-CSE331-Password-Based-Door-Lock-Using-8051-Microcontrolle
 
 ### Project Tittle:  Password based door lock system using 8051/PIC microcontroller
 ### Project Members:
