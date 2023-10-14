@@ -3,7 +3,7 @@
 ### Project Tittle:  Password based door lock system using 8051/PIC microcontroller
 ### Project Members:
     1.   Sayed Abu Noman Siddik (1811655042)
-    2.   Abul Kalam (1811501642)
+    2.   Abul Kalam (1811501642
 
 ### Contents:
     •	Introduction
